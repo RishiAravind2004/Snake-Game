@@ -7,4 +7,4 @@ S - Down<br>
 A - Left<br>
 D - Right<br>
 
-#Note: if you want to change controls means
+#Note: if you want to change controls change * *83 - 86* * lines
